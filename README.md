@@ -1,6 +1,6 @@
 ### Olá Mundo! 👋
 - 🔭 Estudante de Analise e Desenvolvimento de Sistemas 🔭 
-- 🌱 Estudando Python & AWS 🐍☁️
+- 🌱 
 
 <div> 
 <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=alesousz&show_icons=true&theme=transparent"/>
